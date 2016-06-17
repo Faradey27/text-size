@@ -1,0 +1,35 @@
+{
+  "name": "text-size",
+  "version": "0.0.1",
+  "description": "Small library to get text width before render",
+  "homepage": "https://github.com/Faradey27/text-size",
+  "main": "index.js",
+  "keywords": [
+    "text",
+    "size",
+    "width",
+    "render",
+    "before",
+    "get"
+  ],
+  "author": {
+    "name": "Andrii Tiertyshnyi",
+    "email": "andrii.tiertyshnyi@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faradey27/text-size"
+  },
+  "bugs": {
+    "url": "https://github.com/Faradey27/text-size/issues"
+  },
+  "_id": "text-size@0.0.1",
+  "scripts": {},
+  "_from": "text-size@*",
+  "_npmVersion": "3.3.8",
+  "_npmUser": {
+    "name": "faradey27",
+    "email": "andrii.tiertyshnyi@gmail.com"
+  }
+}
