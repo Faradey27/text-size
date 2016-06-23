@@ -49,6 +49,7 @@ var TextComponent = React.createClass({
 #### `getTextWidth(config, type)`
 - `config` - {text: String, fontSize: String, fontName: String}, required parameter
 - `type`: - optional parameter, can be 'canvas' or 'dom', 'dom' by default
+
 ## Pefomance
 For testing we use Macbook Pro 2015, Chrome 51
 #### `DOM`
