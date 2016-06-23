@@ -1,1 +1,1 @@
-module.exports = require('./src/textSize.js');
+module.exports = require('./dist/textSize.js');
